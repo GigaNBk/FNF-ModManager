@@ -1,0 +1,6 @@
+config.json
+profiles.json
+history.log
+crash.log
+backups/
+*.bad
